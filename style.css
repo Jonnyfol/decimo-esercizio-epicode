@@ -1,0 +1,71 @@
+.h1{
+    display:flex;
+    justify-content: center;
+}
+
+
+.searchbar{
+    border-radius: 10px;
+    height: 40px;
+    
+    width: 400px;
+}
+
+.products{
+    margin-top: 30px;
+
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin-top: 22px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.divleft{
+    width: 60%;
+   
+    
+}
+
+.divright{
+    width: 40%;
+    
+}
+
+.info{
+    width: 402px;
+}
+
+.immage{
+    height:400px;
+    width: 400px;
+}
+
+.price{
+    width: 400px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.black{
+    color:black;
+    margin-top: 40px;
+}
+
+.comment{
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 400px;
+    height: 25px;
+}
+
+.invisibile {
+    display: none;
+  }
